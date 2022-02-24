@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/btn_primary.xml" value="0.21" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/edit_text_background.xml" value="0.10648148148148148" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/ic_hamburger.xml" value="0.20462962962962963" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/ic_quiz_login_hero_image.xml" value="0.10648148148148148" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/ic_wave_login_image.xml" value="0.10648148148148148" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/option_item_bg.xml" value="0.20462962962962963" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/drawable/option_item_selected_bg.xml" value="0.21" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_login_inro.xml" value="0.22" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_login_intro.xml" value="0.25" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_question.xml" value="0.33" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_result.xml" value="0.22" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/activity_signup.xml" value="0.22" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/drawer_header.xml" value="0.25" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/option_item.xml" value="0.22" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/layout/quiz_item.xml" value="0.18" />
+        <entry key="..\:/LearnedAndroidProjects/QuizlyCheezyCode/app/src/main/res/menu/drawer_menu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
